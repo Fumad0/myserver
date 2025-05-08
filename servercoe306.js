@@ -1,6 +1,6 @@
 const express = require('express');
 const app     = express();
-const PORT    = 5000;
+const PORT    = 5001;
 
 const SCAN_WINDOW = 4000; // 4 seconds
 
